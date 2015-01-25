@@ -1,0 +1,210 @@
+activity             
+	Activity performed 
+	One of 6 values 
+	1 WALKING
+	2 WALKING_UPSTAIRS
+	3 WALKING_DOWNSTAIRS
+	4 SITTING
+	5 STANDING
+	6 LAYING
+
+subject              
+	Subject - data had 30 subjects 
+	
+tBodyAccMeanX       
+	Average of mean calculated from Body acceleration signal across X axis
+	
+tBodyAccMeanY        
+	Average of mean calculated from Body acceleration signal across Y axis
+	
+tBodyAccMeanZ        
+	Average of mean calculated from Body acceleration signal across Z axis
+	
+tBodyAccStdX        
+	Average of standard deviation calculated from Body acceleration signal across X axis
+	
+tBodyAccStdY         
+	Average of standard deviation calculated from Body acceleration signal across Y axis
+	
+tBodyAccStdZ         
+	Average of standard deviation calculated from Body acceleration signal across Z axis
+	
+tGravityAccMeanX    
+	Average of mean calculated from Gravity acceleration signal across X axis
+	
+tGravityAccMeanY     
+	Average of mean calculated from Gravity acceleration signal across Y axis
+	
+tGravityAccMeanZ     
+	Average of mean calculated from Gravity acceleration signal across Z axis
+	
+tGravityAccStdX     
+	Average of standard deviation calculated from Gravity acceleration signal across X axis
+	
+tGravityAccStdY      
+	Average of standard deviation calculated from Gravity acceleration signal across Y axis
+	
+tGravityAccStdZ      
+	Average of standard deviation calculated from Gravity acceleration signal across Z axis
+	
+tBodyAccJerkMeanX   
+	Average of mean calculated from Body acceleration Jerk signal across X axis
+	
+tBodyAccJerkMeanY    
+	Average of mean calculated from Body acceleration Jerk signal across Y axis
+	
+tBodyAccJerkMeanZ    
+	Average of mean calculated from Body acceleration Jerk signal across Z axis
+	
+tBodyAccJerkStdX    
+	Average of standard deviation calculated from Body acceleration Jerk signal across X axis
+	
+tBodyAccJerkStdY     
+	Average of standard deviation calculated from Body acceleration Jerk signal across X axis
+	
+tBodyAccJerkStdZ     
+	Average of standard deviation calculated from Body acceleration Jerk signal across X axis
+	
+tBodyGyroMeanX      
+	Average of mean calculated from Body gyroscope signal across X axis
+	
+tBodyGyroMeanY       
+	Average of mean calculated from Body gyroscope signal across Y axis
+	
+tBodyGyroMeanZ       
+	Average of mean calculated from Body gyroscope signal across Z axis
+	
+tBodyGyroStdX       
+	Average of standard deviation calculated from Body gyroscope signal across X axis
+	
+tBodyGyroStdY        
+	Average of standard deviation calculated from Body gyroscope signal across Y axis
+	
+tBodyGyroStdZ        
+	Average of standard deviation calculated from Body gyroscope signal across Z axis
+	
+tBodyGyroJerkMeanX  
+	Average of mean calculated from Body gyroscope Jerk signal across X axis
+	
+tBodyGyroJerkMeanY   
+	Average of mean calculated from Body gyroscope Jerk signal across Y axis
+	
+tBodyGyroJerkMeanZ   
+	Average of mean calculated from Body gyroscope Jerk signal across Z axis
+	
+tBodyGyroJerkStdX   
+	Average of standard deviation calculated from Body gyroscope Jerk signal across X axis
+	
+tBodyGyroJerkStdY    
+	Average of standard deviation calculated from Body gyroscope Jerk signal across Y axis
+	
+tBodyGyroJerkStdZ    
+	Average of standard deviation calculated from Body gyroscope Jerk signal across Z axis
+	
+tBodyAccMagMean     
+	Average of mean calculated from Body gyroscope magnitude 
+	
+tBodyAccMagStd       
+	Average of standard deviation calculated from Body gyroscope magnitude 
+	
+tGravityAccMagMean   
+	Average of mean calculated from gravity acceleration magnitude 
+	
+tGravityAccMagStd   
+	Average of standard deviation calculated from gravity acceleration magnitude 
+	
+tBodyAccJerkMagMean  
+	Average of mean calculated from body acceleration jerk magnitude 
+	
+tBodyAccJerkMagStd   
+	Average of standard deviation calculated from body acceleration jerk magnitude 
+	
+tBodyGyroMagMean    
+	Average of mean calculated from body gyroscope magnitude 
+	
+tBodyGyroMagStd      
+	Average of standard deviation calculated from body gyroscope magnitude 
+	
+tBodyGyroJerkMagMean 
+	Average of mean calculated from body gyroscope jerk magnitude 
+	
+tBodyGyroJerkMagStd 
+	Average of standard deviation calculated from body gyroscope jerk magnitude 
+	
+fBodyAccMeanX        
+	Average of mean calculated from body acceleration FT signal across X axis
+	
+fBodyAccMeanY        
+	Average of mean calculated from body acceleration FT signal across Y axis
+	
+fBodyAccMeanZ       
+	Average of mean calculated from body acceleration FT signal across Z axis
+	
+fBodyAccStdX         
+	Average of standard deviation calculated from body acceleration FT signal across X axis
+	
+fBodyAccStdY   
+	Average of standard deviation calculated from body acceleration FT signal across Y axis
+	
+fBodyAccStdZ        
+	Average of standard deviation calculated from body acceleration FT signal across Z axis
+	
+fBodyAccJerkMeanX    
+	Average of mean calculated from body acceleration Jerk FT signal across X axis
+	
+fBodyAccJerkMeanY    
+	Average of mean calculated from body acceleration Jerk FT signal across Y axis
+	
+fBodyAccJerkMeanZ   
+	Average of mean calculated from body acceleration Jerk FT signal across Z axis
+	
+fBodyAccJerkStdX     
+	Average of standard deviation calculated from body acceleration Jerk FT signal across X axis
+	
+fBodyAccJerkStdY     
+	Average of standard deviation calculated from body acceleration Jerk FT signal across Y axis
+	
+fBodyAccJerkStdZ    
+	Average of standard deviation calculated from body acceleration Jerk FT signal across Z axis
+	
+fBodyGyroMeanX    
+	Average of mean calculated from body gyroscope FT signal across X axis
+	
+fBodyGyroMeanY       
+	Average of mean calculated from body gyroscope FT signal across Y axis
+	
+fBodyGyroMeanZ      
+	Average of mean calculated from body gyroscope FT signal across Z axis
+	
+fBodyGyroStdX        
+	Average of standard deviation calculated from body gyroscope FT signal across X axis
+	
+fBodyGyroStdY        
+	Average of standard deviation calculated from body gyroscope FT signal across Y axis
+	
+fBodyGyroStdZ       
+	Average of standard deviation calculated from body gyroscope FT signal across Z axis
+	
+fBodyAccMagMean      
+	Average of mean calculated from body acceleration magnitude FT signal 
+	
+fBodyAccMagStd     
+	Average of standard deviation calculated from body acceleration magnitude FT signal 
+	
+fBodyAccJerkMagMean 
+	Average of mean calculated from body acceleration jerk magnitude FT signal 
+	
+fBodyAccJerkMagStd   
+	Average of standard deviation calculated from body acceleration jerk magnitude FT signal 
+	
+fBodyGyroMagMean     
+	Average of mean calculated from body gyroscope magnitude FT signal 
+	
+fBodyGyroMagStd     
+	Average of standard deviation calculated from body gyroscope magnitude FT signal 
+	
+fBodyGyroJerkMagMean 
+	Average of mean calculated from body gyroscope jerk magnitude FT signal 
+	
+fBodyGyroJerkMagStd
+	Average of standard deviation calculated from body gyroscope jerk magnitude FT signal 
